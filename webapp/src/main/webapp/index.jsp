@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps JEHOVAH JIREH !!! Learning</h1> <p>Please fill NOW !!in this form to create an account.Elohim</p>
+    <h1>New user Register for Learning</h1> <p>Please fill NOW !!in this form to create an account.Elohim</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
